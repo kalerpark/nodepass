@@ -1,0 +1,5 @@
+交互式部署
+
+下载并执行脚本：
+
+bash <(wget -qO- https://run.nodepass.eu/np.sh)
